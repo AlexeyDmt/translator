@@ -1,2 +1,2 @@
 # Not my project
-# only edication project
+# only education project
